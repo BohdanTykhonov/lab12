@@ -1,0 +1,14 @@
+{
+    "champion": {
+        "name": "Dinamo",
+        "points": 90
+    },
+    "second_place": {
+        "name": "Manchester City",
+        "points": 87
+    },
+    "third_place": {
+        "name": "Liverpool",
+        "points": 79
+    }
+}

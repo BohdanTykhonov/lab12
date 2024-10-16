@@ -1,0 +1,44 @@
+{
+    "teams": [
+        {
+            "name": "Manchester City",
+            "points": 87
+        },
+        {
+            "name": "Liverpool",
+            "points": 79
+        },
+        {
+            "name": "Chelsea",
+            "points": 68
+        },
+        {
+            "name": "Tottenham Hotspur",
+            "points": 72
+        },
+        {
+            "name": "Manchester United",
+            "points": 77
+        },
+        {
+            "name": "West Ham United",
+            "points": 53
+        },
+        {
+            "name": "Leicester City",
+            "points": 66
+        },
+        {
+            "name": "Brighton",
+            "points": 60
+        },
+        {
+            "name": "Wolves",
+            "points": 58
+        },
+        {
+            "name": "Dinamo",
+            "points": 90
+        }
+    ]
+}
